@@ -7,6 +7,7 @@ The definitive FrontWars io strategy guide and fan wiki. Master advanced tactics
 - About Us: https://front-wars.org/about-us
 
 ## Games Collection
+- **Army Strike - Free Browser War Defense Shooter**: https://front-wars.org/game/army-strike
 - **Blackline Strike: Desert Warfare - Free Browser Shooter**: https://front-wars.org/game/blackline-strike-desert-warfare
 - **FrontWars io - Guía Estratégica Definitiva y Wiki de Fans** (ES-ES Featured Game): https://front-wars.org/es-es
 - **OpenFront: Juego de Estrategia PvP Táctico Gratis** (ES-ES): https://front-wars.org/es-es/game/openfront
@@ -35,3 +36,4 @@ The definitive FrontWars io strategy guide and fan wiki. Master advanced tactics
 - **The Third Direction - Free 2D Boss Rush Action Game**: https://front-wars.org/game/the-third-direction
 - **FrontWars io Unblocked - Play Free at School & Work**: https://front-wars.org/game/unblocked
 - **War The Knights - Massive Medieval Battles Free Online**: https://front-wars.org/game/war-the-knights
+- **Winter Clash 3D - Free Browser Holiday Team Shooter**: https://front-wars.org/game/winter-clash-3d
